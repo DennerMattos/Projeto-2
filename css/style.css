@@ -1,0 +1,40 @@
+header {
+    background-image: url(../img/header_bg.png);
+    height: 700px;
+    width: 100%;
+}
+header .navbar {
+    background: transparent!important;
+}
+header .navbar .nav-item .nav-link {
+    padding: 0 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+}
+header .navbar .nav-item .nav-link:hover {
+    color: #DC143C;
+    font-weight: 500;
+}
+header .Hello-text {
+    margin: 138px 0;
+}
+header .Hello-text h3 {
+    font-size: 30px;
+    color: white;
+}
+header .Hello-text h1 {
+    font-size: 60px;
+    color: white;
+}
+header .Hello-text h2 {
+    font-size: 24px;
+    color:white;
+}
+
+#sobre {
+    padding: 100px;
+}
+#sobre .foto-designer {
+    margin: 0;
+}
