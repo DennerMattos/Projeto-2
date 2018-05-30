@@ -31,10 +31,17 @@ header .Hello-text h2 {
     font-size: 24px;
     color:white;
 }
-
 #sobre {
     padding: 100px;
 }
 #sobre .foto-designer {
     margin: 0;
+}
+#sobre .texto-sobre h2 {
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color: #DC143C;
+}
+#sobre .texto-sobre p {
+    color: #222222;
 }
